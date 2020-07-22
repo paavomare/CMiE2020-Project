@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <work>
+    <work-title>Breaks</work-title>
+    </work>
+  <identification>
+    <encoding>
+      <software>MuseScore 3.3.4</software>
+      <encoding-date>2020-07-16</encoding-date>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="print" attribute="new-page" type="yes" value="yes"/>
+      <supports element="print" attribute="new-system" type="yes" value="yes"/>
+      <supports element="stem" type="yes"/>
+      </encoding>
+    </identification>
+  <defaults>
+    <scaling>
+      <millimeters>8.656</millimeters>
+      <tenths>40</tenths>
+      </scaling>
+    <page-layout>
+      <page-height>1372.14</page-height>
+      <page-width>970.703</page-width>
+      <page-margins type="even">
+        <left-margin>46.2107</left-margin>
+        <right-margin>46.2107</right-margin>
+        <top-margin>46.2107</top-margin>
+        <bottom-margin>92.4214</bottom-margin>
+        </page-margins>
+      <page-margins type="odd">
+        <left-margin>46.2107</left-margin>
+        <right-margin>46.2107</right-margin>
+        <top-margin>46.2107</top-margin>
+        <bottom-margin>92.4214</bottom-margin>
+        </page-margins>
+      </page-layout>
+    <word-font font-family="FreeSerif" font-size="10"/>
+    <lyric-font font-family="FreeSerif" font-size="11"/>
+    </defaults>
+  <credit page="1">
+    <credit-words default-x="485.351" default-y="1325.93" justify="center" valign="top" font-size="24">Breaks</credit-words>
+    </credit>
+  <part-list>
+    <score-part id="P1">
+      <part-name print-object="no">Gonguê</part-name>
+      <score-instrument id="P1-I63">
+        <instrument-name>Mute High Conga</instrument-name>
+        </score-instrument>
+      <score-instrument id="P1-I65">
+        <instrument-name>Low Conga</instrument-name>
+        </score-instrument>
+      <midi-device port="1"></midi-device>
+      <midi-instrument id="P1-I63">
+        <midi-channel>10</midi-channel>
+        <midi-program>1</midi-program>
+        <midi-unpitched>63</midi-unpitched>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      <midi-instrument id="P1-I65">
+        <midi-channel>10</midi-channel>
+        <midi-program>1</midi-program>
+        <midi-unpitched>65</midi-unpitched>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    <score-part id="P2">
+      <part-name print-object="no">Caixa</part-name>
+      <part-abbreviation>Caixa</part-abbreviation>
+      <score-instrument id="P2-I38">
+        <instrument-name>Side Stick</instrument-name>
+        </score-instrument>
+      <score-instrument id="P2-I39">
+        <instrument-name>Acoustic Snare</instrument-name>
+        </score-instrument>
+      <midi-device port="10"></midi-device>
+      <midi-instrument id="P2-I38">
+        <midi-channel>10</midi-channel>
+        <midi-program>49</midi-program>
+        <midi-unpitched>38</midi-unpitched>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      <midi-instrument id="P2-I39">
+        <midi-channel>10</midi-channel>
+        <midi-program>49</midi-program>
+        <midi-unpitched>39</midi-unpitched>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    <score-part id="P3">
+      <part-name>Alfaia</part-name>
+      <score-instrument id="P3-I63">
+        <instrument-name>Mute High Conga</instrument-name>
+        </score-instrument>
+      <score-instrument id="P3-I65">
+        <instrument-name>Low Conga</instrument-name>
+        </score-instrument>
+      <midi-device port="2"></midi-device>
+      <midi-instrument id="P3-I63">
+        <midi-channel>10</midi-channel>
+        <midi-program>1</midi-program>
+        <midi-unpitched>63</midi-unpitched>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      <midi-instrument id="P3-I65">
+        <midi-channel>10</midi-channel>
+        <midi-program>1</midi-program>
+        <midi-unpitched>65</midi-unpitched>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    <score-part id="P4">
+      <part-name print-object="no">Unisono</part-name>
+      <part-abbreviation>Unisono</part-abbreviation>
+      <score-instrument id="P4-I38">
+        <instrument-name>Side Stick</instrument-name>
+        </score-instrument>
+      <score-instrument id="P4-I39">
+        <instrument-name>Acoustic Snare</instrument-name>
+        </score-instrument>
+      <midi-device port="15"></midi-device>
+      <midi-instrument id="P4-I38">
+        <midi-channel>10</midi-channel>
+        <midi-program>49</midi-program>
+        <midi-unpitched>38</midi-unpitched>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      <midi-instrument id="P4-I39">
+        <midi-channel>10</midi-channel>
+        <midi-program>49</midi-program>
+        <midi-unpitched>39</midi-unpitched>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    </part-list>
+  <part id="P1">
+    <measure number="0" implicit="yes" width="808.29">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>69.99</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <top-system-distance>170.00</top-system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <divisions>4</divisions>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+          </time>
+        <clef>
+          <sign>percussion</sign>
+          <line>2</line>
+          </clef>
+        <staff-details>
+          <staff-lines>1</staff-lines>
+          </staff-details>
+        </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  <part id="P2">
+    <measure number="0" implicit="yes" width="808.29">
+      <print>
+        <staff-layout number="1">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <attributes>
+        <divisions>4</divisions>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+          </time>
+        <clef>
+          <sign>percussion</sign>
+          <line>2</line>
+          </clef>
+        <staff-details>
+          <staff-lines>1</staff-lines>
+          </staff-details>
+        </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  <part id="P3">
+    <measure number="0" implicit="yes" width="808.29">
+      <print>
+        <staff-layout number="1">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <attributes>
+        <divisions>4</divisions>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+          </time>
+        <clef>
+          <sign>percussion</sign>
+          <line>2</line>
+          </clef>
+        <staff-details>
+          <staff-lines>1</staff-lines>
+          </staff-details>
+        </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-111.12" relative-y="34.76">(unisono)</words>
+          </direction-type>
+        </direction>
+      <note default-x="74.09" default-y="-135.00">
+        <unpitched>
+          <display-step>D</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P3-I65"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <articulations>
+            <accent/>
+            </articulations>
+          </notations>
+        <lyric number="1" default-x="6.58" default-y="-20.35" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>R</text>
+          </lyric>
+        </note>
+      <note default-x="161.80" default-y="-125.00">
+        <unpitched>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P3-I63"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.35" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>L</text>
+          </lyric>
+        </note>
+      <note default-x="249.51" default-y="-135.00">
+        <unpitched>
+          <display-step>D</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P3-I65"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <accent/>
+            </articulations>
+          </notations>
+        <lyric number="1" default-x="6.58" default-y="-20.35" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>R</text>
+          </lyric>
+        </note>
+      <note default-x="337.22" default-y="-125.00">
+        <unpitched>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P3-I63"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.35" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>L</text>
+          </lyric>
+        </note>
+      <note default-x="424.93" default-y="-125.00">
+        <unpitched>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <instrument id="P3-I63"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">forward hook</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.35" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>L</text>
+          </lyric>
+        </note>
+      <note default-x="479.75" default-y="-135.00">
+        <unpitched>
+          <display-step>D</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P3-I65"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <accent/>
+            </articulations>
+          </notations>
+        <lyric number="1" default-x="6.58" default-y="-20.35" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>R</text>
+          </lyric>
+        </note>
+      <note default-x="567.45" default-y="-135.00">
+        <unpitched>
+          <display-step>D</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <instrument id="P3-I65"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.35" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>R</text>
+          </lyric>
+        </note>
+      <note default-x="622.27" default-y="-125.00">
+        <unpitched>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P3-I63"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.35" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>L</text>
+          </lyric>
+        </note>
+      <note default-x="709.98" default-y="-135.00">
+        <unpitched>
+          <display-step>D</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P3-I65"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <articulations>
+            <accent/>
+            </articulations>
+          </notations>
+        <lyric number="1" default-x="6.58" default-y="-20.35" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>R</text>
+          </lyric>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  <part id="P4">
+    <measure number="0" implicit="yes" width="808.29">
+      <print>
+        <staff-layout number="1">
+          <staff-distance>20.00</staff-distance>
+          </staff-layout>
+        </print>
+      <attributes>
+        <divisions>4</divisions>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+          </time>
+        <clef>
+          <sign>percussion</sign>
+          <line>2</line>
+          </clef>
+        <staff-details>
+          <staff-lines>1</staff-lines>
+          </staff-details>
+        </attributes>
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  </score-partwise>

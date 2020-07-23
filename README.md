@@ -1,5 +1,5 @@
 # CMiE2020-Project
-This repository contains a small Python project for the course "Computational Methods in Ethnomusicology" on analysing rhythmic patterns in *maracatu* using **Music21**.
+This repository contains a Python project on **analysing rhythmic patterns in *maracatu*** using **Music21** for the course **"Computational Methods in Ethnomusicology"** by Rafael Caro Repetto, Ph.D. at the Kunstuniversität Graz.
 
 ## Introduction
 The Brazilian style of percussion music *maracatu de baque virado* is characterized by a prominent feature of their traditional rhythmic patterns, namely an accentuation of off-beat rather than on-beat notes as that is the case for other Brazilian percussion styles like *samba* or even most other genres around the world. During this experiment, transcriptions of the rhythmic patterns of the Austrian group **Maracatu Renascente** are analysed by using the Python toolkit **Music21** to find out what the concrete ratio between the elements of maracatu rhythm patterns, especially the ratio of accented on-beat and off-beat notes, actually is. 
